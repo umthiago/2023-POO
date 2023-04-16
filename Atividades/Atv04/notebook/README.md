@@ -13,6 +13,7 @@ e) Exiba a variável gastosTrimestre.
 Classe impressão de texto: "Main"  
 IFPR - Campus Cascavel  
 Aluno: Thiago Oliveira Dupim
+
 Disciplina: Programação Orientada a Objetos  
 Professor: Nelson Bellincanta
 
