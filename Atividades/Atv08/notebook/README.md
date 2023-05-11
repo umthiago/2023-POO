@@ -1,4 +1,16 @@
+# Atividade 7
 
+Atividade:
+
+Elabore uma classe que receba 5 notas de alunos por meio de showInputDialog, armazene essas notas em um array de cinco elementos, apresente em tela as cinco notas em ordem decrescente (da maior para a menor) e a média aritmética das notas.
+
+Classe impressão de texto: "Main"  
+IFPR - Campus Cascavel  
+Aluno: Thiago Oliveira Dupim    
+Disciplina: Programação Orientada a Objetos  
+Professor: Nelson Bellincanta
+
+### Codigo:
 ```
 //importação da classe Scanner do pacote java.util
 import java.util.Scanner; 
