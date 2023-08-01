@@ -10,13 +10,9 @@ public class Cachorros extends Mamiferos{
         return this.raca;
     }
 
-
-
     public void setRaca(String raca2){
         this.raca = raca2;
     }
-
-
 
     public void abanarRabo(){
         System.out.println("O cachorro está abanando o rabo.");
